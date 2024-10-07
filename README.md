@@ -29,8 +29,9 @@ To run the code locally, follow these steps:
 Clone the repository:
 
 
-git clone https://github.com/your-username/expression-evaluator.git
+git clone https://github.com/David-coder001/expression-evaluator
 cd expression-evaluator
+
 Prepare the input file:
 
 Create an input.txt file in the same directory with your 
